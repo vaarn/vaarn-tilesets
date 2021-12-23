@@ -1,0 +1,14 @@
+type: perlin
+regions:
+  - limit: 0.44594594594594594
+    generator:
+      type: tile
+      uri: 'Vaarn:/colors/Vaarn/0317d7-thin.png'
+  - limit: 0.7297297297297297
+    generator:
+      type: tile
+      uri: 'Vaarn:/colors/Vaarn/021096-thin.png'
+  - limit: 1
+    generator:
+      type: tile
+      uri: 'Vaarn:/colors/Vaarn/010a59-thin.png'
