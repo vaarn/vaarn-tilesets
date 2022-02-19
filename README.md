@@ -73,6 +73,8 @@ Here are a few example use cases:
 
 ### Color Palette
 
+The Vaults of Vaarn color palette is based upon [RKBV II](https://lospec.com/palette-list/rkbv-ii) by [r3cl41m3r](https://lospec.com/r3cl41m3r).
+
 The GIMP color palette `color-palette/vaarn-color-palette.gpl` is supported by  both GIMP and Libresprite, and should be used if designing new tiles to keep with a consistent color scheme. [Here](https://www.lifewire.com/import-a-color-palette-into-gimp-1701682) is a link on how to import it into GIMP, and [here](https://techstacker.com/import-any-palette-aseprite/) is one for Libresprite.
 
 
